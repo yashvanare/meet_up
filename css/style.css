@@ -1,0 +1,169 @@
+#title
+{
+    background-color:rgb(231, 74, 95);
+}
+
+
+.container-fluid
+{
+    padding: 3% 15%;
+}
+
+h1{
+    font-family:"montserrat-dark";
+    font-size: 5rem;
+    line-height: 1.5;
+    
+}
+
+p
+{
+    color:gray;
+}
+
+body{
+    font-family:"montserrat-Black";
+}
+.navbar-brand
+{
+    font-family: "Ubuntu";
+    font-size: 3.5rem;
+}
+
+.navbar{
+
+    padding-bottom: 4.5rem;
+}
+.nav-item
+{
+    padding: 0 28px;
+}
+.download-button
+{
+    margin: 5% 3% 5% 0%;
+}
+.title-image
+{
+
+    width:220px;
+    transform: rotate(25deg);
+    
+
+}
+
+
+
+#features
+{
+    padding:5% 15%;
+    
+    
+}
+.feature-box
+{
+    text-align:center;
+    padding:2% ;
+}
+
+h2{
+    font-family: "montserrat-bold";
+    font-size:2.5rem ;
+    line-height: 1.5;
+}
+
+#testimonials
+{
+    text-align: center;
+    background-color:rgb(231, 74, 95);
+    color:aliceblue;
+}
+h2{
+    font-family: "montserrat-bold";
+    font-size:2.5rem ;
+    line-height: 1.5;
+    margin-top: 5%;
+
+
+}
+.doggyimg
+{
+    padding: 10% 10%;
+    text-align: center;
+    
+    
+}
+.testimonial-image
+{
+    padding:10% ;
+    text-align: center;
+}
+
+
+#logos
+{
+background-color: rgb(231, 74, 95);
+text-align: center;
+padding:2%;
+
+}
+.presslogo
+{
+    width:15%;
+    text-align: center;
+}
+
+#pricing
+
+{
+    text-align: center;
+    padding:3% 15% ;
+}
+.pricing-hed
+{
+    font-size:3.5rem;
+    line-height: 1.5;  
+}
+.list-unstyled-mt-3-mb-4
+{
+    font-size:1rem;
+}
+.par
+{
+    font-size: 1rem;
+    color: grey;
+}
+    
+li
+{
+    font-family: "montserrat-bold";
+    font-size:1rem ;
+    
+    
+}
+
+#cta
+{
+    background-color: rgb(231, 74, 95);
+    padding: 3% 15%;
+    text-align: center;
+    
+    
+}
+.cta-hedding
+{
+   font-size:3.5rem;
+   line-height: 1.5;
+}
+#footer
+{
+    
+   padding:7% 13%;
+    text-align: center;
+    
+    
+    
+}
+.social-icon
+{
+    margin: 20px 10px;
+}
